@@ -4,9 +4,10 @@ This is a simple chrome extension that uses [Hamro Patro Widget](https://www.ham
 
 NOTE : The Logo and the widget is the property of [Hamro Patro](https://www.hamropatro.com/), i only extended this as chrome extension.
 
-### How to install?
--   For FireFox Install via [This Link](https://addons.mozilla.org/en-US/firefox/addon/nepali-patro/)
--   For Chrome : 
+## How to install?
+-   ### For FireFox 
+-   Install via [This Link](https://addons.mozilla.org/en-US/firefox/addon/nepali-patro/)
+-   ### For Chrome : 
 -   Download latest release from [Here](https://github.com/sanghaarsha/NepaliPatroChrome/releases/)
 -   Open [Chrome Extenstion Settings](chrome://extensions/) : Click on 3 Vertical Dots at top right corner -> More Tools -> Extensions
 -   Enable Developer Mode
