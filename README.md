@@ -7,7 +7,7 @@ NOTE : The Logo and the widget is the property of [Hamro Patro](https://www.hamr
 ### How to install?
 
 -   Clone or Download this repo
--   Open [Chrome Extenstion Settings](chrome://extensions/) -> Click on 3 Vertical Dots at top right corner -> More Tools -> Extensions
+-   Open [Chrome Extenstion Settings](chrome://extensions/) : Click on 3 Vertical Dots at top right corner -> More Tools -> Extensions
 -   Enable Developer Mode
 -   Go to the directory where you cloned this repo
 -   Go inside 'packed' directory
