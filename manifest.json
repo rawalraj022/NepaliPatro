@@ -1,0 +1,21 @@
+{
+    "name": "Nepali Patro",
+    "description": "Nepali Patro using HamroPatro widget",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "patro.html",
+        "default_icon": {
+            "16": "./hamropatro.png",
+            "32": "./hamropatro.png",
+            "48": "./hamropatro.png",
+            "128": "./hamropatro.png"
+        }
+    },
+    "icons": {
+        "16": "./hamropatro.png",
+        "32": "./hamropatro.png",
+        "48": "./hamropatro.png",
+        "128": "./hamropatro.png"
+    }
+}
