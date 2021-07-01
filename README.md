@@ -6,12 +6,11 @@ NOTE : The Logo and the widget is the property of [Hamro Patro](https://www.hamr
 
 ### How to install?
 
--   Clone or Download this repo
+-   Download latest release from [Here](https://github.com/sanghaarsha/NepaliPatroChrome/releases/)
 -   Open [Chrome Extenstion Settings](chrome://extensions/) : Click on 3 Vertical Dots at top right corner -> More Tools -> Extensions
 -   Enable Developer Mode
--   Go to the directory where you cloned this repo
--   Go inside 'packed' directory
--   Drag and drop the 'NepaliPatroChrome.crx' file inside chrome extensions page
+-   Go to the directory where you downloaded 'NepaliPatroChrome.crx'
+-   Drag and drop the 'NepaliPatroChrome.crx' file inside chrome extensions page opened on step 2
 -   Congratulations you've now installed the extension
 
 ### [@sanghaarsha](https://www.github.com/sanghaarsha)
