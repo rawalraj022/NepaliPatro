@@ -1,8 +1,8 @@
 ## Nepali Patro Chrome & Firefox Extension
 
-This is a simple chrome extension that uses [Hamro Patro Widget](https://www.hamropatro.com/widgets/calender-small.php) to show the current nepali date and time.
+This is a simple chrome & firefox extension that uses [Hamro Patro Widget](https://www.hamropatro.com/widgets/calender-small.php) to show the current nepali date and time.
 
-NOTE : The Logo and the widget is the property of [Hamro Patro](https://www.hamropatro.com/), i only extended this as chrome extension.
+NOTE : The Logo and the widget is the property of [Hamro Patro](https://www.hamropatro.com/), i only extended this as browser extension.
 
 ## How to install?
 -   ### For FireFox 
